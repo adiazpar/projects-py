@@ -1,7 +1,7 @@
 """
 Homework 1
 Name: Alejandro Diaz
-Date: 08/24/23
+Due Date: 08/24/23
 
 This homework assignment serves as practice using loops and variables.
 The idea is to implement a security program that asks various questions.
