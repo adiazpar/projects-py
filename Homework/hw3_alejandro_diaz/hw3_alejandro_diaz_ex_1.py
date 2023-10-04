@@ -35,3 +35,27 @@ your program will print is grid[8][5]. Also, remember to pass the end keyword ar
 if you don’t want a newline printed automatically after each print() call. Save your code as
 hw3_firstname_lastname_ex_1.py
 """
+
+# Creating the character grid:
+grid = [
+    ['.', '.', '.', '.', '.', '.'],
+    ['.', 'O', 'O', '.', '.', '.'],
+    ['O', 'O', 'O', 'O', '.', '.'],
+    ['O', 'O', 'O', 'O', 'O', '.'],
+    ['.', 'O', 'O', 'O', 'O', 'O'],
+    ['O', 'O', 'O', 'O', 'O', '.'],
+    ['O', 'O', 'O', 'O', '.', '.'],
+    ['.', 'O', 'O', '.', '.', '.'],
+    ['.', '.', '.', '.', '.', '.'],
+]
+
+# Assigning values to respective grid sizes:
+x_value = len(grid[0])
+y_value = len(grid)
+
+# Printing the character grid with 2 for loops:
+for i in range(x_value):
+    for j in range(y_value):
+        print(grid[j][i], end='')
+
+    print(end='\n')

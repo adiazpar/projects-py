@@ -11,7 +11,7 @@ picnicItems = {'sandwiches': 4, 'apples': 12,
 printPicnic(picnicItems, 12, 5)
 printPicnic(picnicItems, 20, 6)
 
-
+"""
 spam = '   Hello World   '
 print(spam.strip())     # 'Hello World'
 print(spam.lstrip())    # 'Hello World   '
@@ -34,3 +34,4 @@ print("{1} has {0}!".format(name, age))
 # 20 has Bob
 print("{name} has {age}!".format(name='Bob', age=20))
 # Bob has 20
+"""
