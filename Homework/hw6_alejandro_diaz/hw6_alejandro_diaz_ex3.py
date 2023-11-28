@@ -48,6 +48,50 @@ For example, if numThreads is 6, an example output could look like the following
     2023-11-09 11:04:58,149 - 16 - Goodbye thread 5
 """
 
+import threading
+import time
+import logging
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(lineno)d - %(message)s')
+
+
+def someFunc(i):
+    # Debugging:
+    logging.debug("Welcome thread ({})".format(i))
+    if i % 2 == 0:
+        logging.debug("Number ({}) is even".format(i))
+    else:
+        logging.debug("Number ({}) is odd".format(i))
+
+    time.sleep(3)
+    logging.debug("Goodbye thread ({})".format(i))
+
 
 if __name__ == "__main__":
-    print("Hello!")
+    # Prompt the user to enter the total number of threads to run:
+    valid = False
+    numThreads = 0
+
+    # Validate the user input
+    while not valid:
+        print('Please enter the max amount of threads to run: ', end='')
+        temp = input()
+
+        if temp.isdigit():
+            num_val = int(temp)
+
+            if num_val > 1:
+                numThreads = num_val
+                valid = True
+
+    # Creating numThreads amount of threads:
+    threads = [None] * numThreads
+
+    for i in range(len(threads)):
+        threads[i] = threading.Thread(target=someFunc, args=(i,))
+        threads[i].start()
+
+    # Joining all the threads in a seperate for loop:
+    [thread.join() for thread in threads]
+
+    # Confirm when threads are finished:
+    print("\nEnd of program.")
