@@ -1,142 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9205c517-592b-4225-859a-1594a474e604" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw1_alejandro_diaz/hw1_alejandro_diaz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw2_alejandro_diaz/hw2_alejandro_diaz_ex_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw2_alejandro_diaz/hw2_alejandro_diaz_ex_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw2_alejandro_diaz/hw2_alejandro_diaz_ex_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw2_alejandro_diaz/hw2_alejandro_diaz_ex_4_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw2_alejandro_diaz/hw2_alejandro_diaz_ex_4_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw3_alejandro_diaz/hw3_alejandro_diaz_ex_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw3_alejandro_diaz/hw3_alejandro_diaz_ex_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw3_alejandro_diaz/hw3_alejandro_diaz_ex_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw3_alejandro_diaz/hw3_alejandro_diaz_ex_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw4_alejandro_diaz/hw4_alejandro_diaz_ex1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw4_alejandro_diaz/hw4_alejandro_diaz_ex2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw4_alejandro_diaz/hw4_alejandro_diaz_ex3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw5_alejandro_diaz/hw5_alejandro_diaz_ex1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw5_alejandro_diaz/hw5_alejandro_diaz_ex2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw5_alejandro_diaz/hw5_alejandro_diaz_ex3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/allPdfs/test1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/allPdfs/test2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/allPdfs/test3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/allPdfs/test4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/allPdfs/test5.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/dates_test/example1-23-01-2004.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/dates_test/example2-19-04-2020.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/dates_test/example3-05-07-2019.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/dates_test/example4-18-10-1989.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/dates_test/example5-30-12-2023.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/dates_test/example6-100-21-202.txt.bad.date" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/dates_test/example7_23-10-2018.hello.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/hw6_alejandro_diaz_ex1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/hw6_alejandro_diaz_ex2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/hw6_alejandro_diaz_ex3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/walk_test/subwalk1_test/test4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/walk_test/subwalk2_test/test5.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/walk_test/test1.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/walk_test/test2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw6_alejandro_diaz/walk_test/test3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw7_alejandro_diaz/hw7_alejandro_diaz_ex1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Homework/hw7_alejandro_diaz/hw7_alejandro_diaz_ex2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Midterm.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec10/assertions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec10/log.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec10/logLevel.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec10/raiseExcept.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec10/traceBack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/consumer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/consumerSlow.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/date.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/localTime.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/lock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/moarThreads.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/multiProcess.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/race.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/sync.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/thread.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/threadArgs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec11/timetime.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/anotherDecorator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/argKwarg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/arguments.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/decorators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/functionObj.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/innerFunction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/introspection.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/real_world_examples/debug.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/real_world_examples/decoratorArgs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/real_world_examples/decorators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/real_world_examples/decoratorsWithWithoutArgs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/real_world_examples/nesting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/real_world_examples/slowDown.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/real_world_examples/statefulDecorator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/real_world_examples/timer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/returnVals1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/returnVals2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/reuseDecorator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/simpleDecorator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec12/syntacticSugar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec3/immutable.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec3/listMethod.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec3/listOperations.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec3/listReference.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec3/listofCats.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec3/passingRef.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec4/dictComp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec4/dictList.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec4/dictMethods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec4/nestedDict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec5/copyPaste.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec5/format.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec5/inputArg.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec5/joinSplit.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec5/lambda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec5/string.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec5/stringMethods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/classAttribute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/encapsulation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/initObjects.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/instanceMethods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/isMethods.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/multipleInheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/mutableClassAttribute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/override.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/polymorphism.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/polymorphism2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/printObj.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec6/underscore.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec7/caseInsensitive.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec7/charClass.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec7/complexRegex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec7/findWithoutRegex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec7/findall.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec7/phoneNumRegex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec7/repetitions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec7/specialChars.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec7/substitute.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec7/wildcard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec8/generator1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec8/generator2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec8/generatorExp1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec8/generatorExp2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec8/iterObj.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec8/iteration.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec8/powTwo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec9/absRelative.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec9/copyFile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec9/formatting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec9/joinSplitFiles.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec9/moveDelete.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec9/readWrite.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec9/shelveFile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec9/sizeContent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec9/walkPath.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/Lec9/zipFile.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Notes/person.py" beforeDir="false" />
-    </list>
+    <list default="true" id="9205c517-592b-4225-859a-1594a474e604" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,9 +10,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2ZBizsHupo26l3aHmzq8wVv8Y0x" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -158,7 +23,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/adiaz/FAL2023/CS3080/Academic/cs3080"
+    "last_opened_file_path": "/Users/adiaz/PycharmProjects/Github/Academic/cs3080"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
