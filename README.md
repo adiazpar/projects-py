@@ -1,2 +1,2 @@
-# CS3080
-This repository is a backup of saved projects from CS3080, or better known as 'Python' at UCCS.
+# Welcome!
+This repository contains source files for my previous and current projects coded in the Python programming language. The contents extend to both academic and personal applications.
